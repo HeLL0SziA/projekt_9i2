@@ -1,1 +1,1 @@
-fasz # projekt_9i2
+# projekt_9i2
